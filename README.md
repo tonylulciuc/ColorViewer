@@ -1,5 +1,6 @@
 # ColorViewer  
-![Alt tag](ColorViewer/app/device-2016-11-02-200738.png?raw=true)   
+  
+  ![Alt tag](ColorViewer/app/screenshot.png?raw=true)  
 
 Consists of two fragments:  
    - Fragment one allows the user to select a color   
