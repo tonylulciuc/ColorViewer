@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorViewer</string>
+    <string name="select_color">Select Color:</string>
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
+    <string name="CYAN">CYAN</string>
+    <string name="GRAY">GRAY</string>
+
+</resources>

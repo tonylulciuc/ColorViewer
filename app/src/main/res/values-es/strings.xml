@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorViewer</string>
+    <string name="select_color">Seleccionar el color:</string>
+    <string name="RED">ROJO</string>
+    <string name="GREEN">VERDE</string>
+    <string name="BLUE">AZUK</string>
+    <string name="CYAN">CIAN</string>
+    <string name="GRAY">GRIS</string>
+</resources>
